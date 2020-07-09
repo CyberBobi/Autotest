@@ -3,3 +3,4 @@
 这是一个合并后的文件
 增加mergedemo分支上的内容
 version1
+Version2
